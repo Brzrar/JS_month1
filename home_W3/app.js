@@ -53,6 +53,6 @@ function depersonalize(fullName) {
   return depersonalized
 }
 
-var fullName1 = "Киселев Евгений Дмитриевич"
+var fullName = "Киселев Евгений Дмитриевич"
 
-console.log(depersonalize(fullName1))
+console.log(depersonalize(fullName))
