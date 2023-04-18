@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+}
+
+.container {
+  font-size: 55px;
+  margin-top: 250px;
+}
+
+.counter {
+  margin-top: 250px;
+}
+
+#num {
+  font-size: 150px;
+  font-weight: bold;
+}
+
+#num.red {
+  color: red;
+}
+
+#num.green {
+  color: green;
+}
+
+#num.grey{
+    color: grey;
+}
+
+.button {
+  text-transform: uppercase;
+  padding: 20px 40px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
