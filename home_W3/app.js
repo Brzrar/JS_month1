@@ -1,6 +1,6 @@
 // hw3
 
-// dz1 reverseString
+// dz1 reverseString 
 
 // 1 вариант
 function reverseString(str) {
